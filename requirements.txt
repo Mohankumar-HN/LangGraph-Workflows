@@ -1,0 +1,16 @@
+# LangGraph + LangChain
+langgraph
+langchain
+langchain-core
+
+# Google Gemini Integration
+langchain-google-genai
+
+# Environment Variables
+python-dotenv
+
+# Data Validation / State Models
+pydantic
+
+# Optional: Data Handling
+pandas
